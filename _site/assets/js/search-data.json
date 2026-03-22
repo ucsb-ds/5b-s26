@@ -1,0 +1,23 @@
+{"0": {
+    "doc": "numpy",
+    "title": "numpy",
+    "content": "# {{page.title}} - {{page.description}} ",
+    "url": "/topics/numpy/",
+    
+    "relUrl": "/topics/numpy/"
+  },"1": {
+    "doc": "Topics",
+    "title": "Topics",
+    "content": "# {{page.title}} ",
+    "url": "/topics/",
+    
+    "relUrl": "/topics/"
+  },"2": {
+    "doc": "Home",
+    "title": "Home",
+    "content": "# CMPSC 5B, Spring 2026 ",
+    "url": "/",
+    
+    "relUrl": "/"
+  }
+}
