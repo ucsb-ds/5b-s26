@@ -30,7 +30,13 @@ gh_edit_repository: "https://github.com/ucsb-ds/5b" # the github URL for your re
 gh_edit_branch: "main" # the branch that your docs is served from
 gh_edit_view_mode: "edit" # "tree" or "edit" if you want the user to jump into the editor immediately
 
-
+aux_links:
+  "5b":
+    - "//ucsb-ds.github.io/5b"
+  "5b-s26":
+    - "//ucsb-ds.github.io/5b-s26"
+  "5b-s26 (canvas)":
+    - "https://ucsb.instructure.com/courses/32780"
 
 defaults:
   -
