@@ -11,7 +11,6 @@ CMPSC 5B, Introduction to Data Science 2, Spring 2026
 
 ## What is this course about?
 
-
 The Introduction to Data Science course series (CMPSC 5A/5B) teaches skills for analyzing real-world data using computational and statistical tools. 
 
 We use the textbook [Computational and Inferential Thinking: The Foundations of Data Science, 2nd Edition](https://inferentialthinking.com/)
@@ -19,6 +18,27 @@ by Ani Adhikari, John DeNero, David Wagner.  This text was originally developed 
 
 * CMPSC 5A covers chapters 1-9
 * CMPSC 5B reviews chapters 1-9, and then covers chapters 10-18
+
+## Topics
+
+We plan to cover the following topics in CMPSC 5B this quarter:
+
+* [Ch10: Sampling and Empirical Distributions](https://inferentialthinking.com/chapters/10/sampling-and-empirical-distributions/)
+* [Ch11: Testing Hypotheses](https://inferentialthinking.com/chapters/11/testing-hypotheses/)
+* [Ch12: Comparing Two Samples](https://inferentialthinking.com/chapters/12/comparing-two-samples/)
+* [Ch13: Estimation](https://inferentialthinking.com/chapters/13/estimation/)
+* [Ch14: Applications of Mean/Variance/Std Deviation and the Central Limit Theorem](https://inferentialthinking.com/chapters/14/why-the-mean-matters/)
+* [Ch15: Prediction/Correlation/Regresssion](https://inferentialthinking.com/chapters/15/prediction/)
+* [Ch16: Inference for Regression](https://inferentialthinking.com/chapters/16/inference-for-regression/)
+* [Ch17: Classification](https://inferentialthinking.com/chapters/17/classification/)
+* [Ch18: Updating Predictions](https://inferentialthinking.com/chapters/18/updating-predictions/)
+
+We will also review and reinforce the following skills from CMPSC 5A:
+* Working with Jupyter notebooks in both JupyterHub and Google Colab
+* Python programming skills
+* Basic skills for working with datasets, `numpy`, `datascience` tables and `datascience` visualization.
+
+We may also cover some basic git/github skills.
 
 ## Background Needed for CMPSC 5B
 
