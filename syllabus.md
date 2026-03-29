@@ -12,13 +12,37 @@ CMPSC 5B, Introduction to Data Science 2, Spring 2026
 ## What is this course about?
 
 
-The Introduction to Data Science course series (CMPSC 5A/5B) combines three perspectives: inferential thinking, computational thinking, and real-world relevance. Given data arising from some real-world phenomenon, how does one analyze that data so as to understand that phenomenon? The course series teaches critical concepts and skills in computer programming and statistical inference, in conjunction with hands-on analysis of real-world datasets. 
+The Introduction to Data Science course series (CMPSC 5A/5B) teaches skills for analyzing real-world data using computational and statistical tools. 
 
 We use the textbook [Computational and Inferential Thinking: The Foundations of Data Science, 2nd Edition](https://inferentialthinking.com/)
 by Ani Adhikari, John DeNero, David Wagner.  This text was originally developed for the UC Berkeley course Data 8: Foundations of Data Science, and is [freely available online](https://inferentialthinking.com/).
 
 * CMPSC 5A covers chapters 1-9
 * CMPSC 5B reviews chapters 1-9, and then covers chapters 10-18
+
+## Background Needed for CMPSC 5B
+
+The background needed for CMPSC 5B is contained in Chapters 1 through 9 of [the CMPSC 5A/5B textbook](https://inferentialthinking.com/).
+
+Here is a partial list of important topics from these chapters that students should be comfortable with (or quickly learn during the first week or two of CMPSC 5B).  For a full list, consult the textbook chapters directly.
+
+(1) Basic Python programming skills from CMPSC 5A (or other coursework) including:
+* Basic Python data types: int, float, string, bool, list
+* Assignment statements, and operators
+* defining Python functions with parameters, and calling those functions (the textbook uses the phrase "call expressions")
+* if/elif/else statements
+* for loops and while loops
+
+(2) The following skills taught in CMPSC 5A that pertain to the `datascience` module from UC Berkeley, and related `numpy` and `matplotlib` concepts:
+
+* The `table` abstraction: how to create tables using code, and by reading from data files
+* How to pull out particular rows, columns, and values from `table` objects
+* The `numpy` array data type (`ndarray`), and commmon `numpy` methods used in conjunction with the `datascience` module, and separately.
+* How to sort `table` objects
+* How to summarize, join, and pivot table objects
+* How to perform basic visualizations on table objects, such as bar graph, histograms, and line graphs.
+
+(3) A few basic concepts in statistics, including mean, variance, and standard deviation.
 
 ## Basic Facts
 
