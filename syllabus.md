@@ -79,14 +79,14 @@ Where both n and k are a function of the number of assignments in that category:
 * <= 2 assignments, no dropped assignments
 * 2 to 5 assignments: 1 dropped grades
 * 6 to 8 assignments: 2 dropped grades
-* 9 or more: 3 dropped grades
+* 9 to 15 assignments: 3 dropped grades
+* 16 or more: the "ceiling" of the number of assignments divided by 5 (i.e. next higher whole number if the number is not evenly divible by 5.)
 
 This applies only to participation and homework assignments.
 
 This should be sufficient to allow for occaisional personal situations that may prevent your participation; if there is some special circumstance beyond your control where greater consideration may be needed, please contact the instructor; they will consider these on a case-by-case basis.
 
 Each homework and in-class-activity will be of equal value (100 pts).
-
 
 ## Use of a laptop is required
 
@@ -98,7 +98,7 @@ Please make sure your laptop is charged before class, since power outlets may be
 ## Support from the Teaching Staff
 
 
-You are not alone in this course; the Teaching Assistants (TAs), Undergraduate Learning Assistants (ULA) and Instructor are here to support you as you learn the material. It's expected that some aspects of the course will take time to master, and the best way to master challenging material is to ask questions. For questions, use Ed. We will also hold Tutoring Hours for real-time discussions.
+You are not alone in this course; the Teaching Assistants (TAs), Undergraduate Learning Assistants (ULA) and Instructor are here to support you as you learn the material. It's expected that some aspects of the course will take time to master, and the best way to master challenging material is to ask questions. For questions, use Slack. We will also hold Tutoring Hours for real-time discussions.
 
 Your discussion TA will be your main point of contact for all course related questions/grade clarifications. The TAs are here to support you so please lean on your discussion TA if you need more support in the class or have any questions/concerns.
 
@@ -110,11 +110,15 @@ Grades will be assigned using the following weighted components.
 
 The codes in the table correspond to the codes for the activities in the Canvas gradebook; for example, the In Class activities are numbered ic00, ic01, ic02, etc. while labs are numbered lab00, lab01, lab02, etc.
 
+| Assignment Category | Prefix Code | Percentage of Final Grade |
+|---------------------|-------------|---------------------------|
+| In class and Homework | `ic` and `h` | 20% |
+| Labs and Quizzes | `lab`, `quiz` | 20% |
+| Project | `proj` | 30% |
+| Exams | `lab` | 30% |
 
-TODO: Update this
 
-
-We will make every effort to post grades for  Projects, and Labs will be posted about 1 week after the assignment's due date.
+We will make every effort to post grades within about 1 week after the assignment's due date.
 
 ## PrairieLearn Assignments
 
@@ -172,7 +176,6 @@ TODO: Update this!
 
 We will go over how to reserve appointments in class; we expect to do this sometime during Week 1 of the quarter. 
 
-There will also be a handout with testing center procedures that I'll go over next week.
 
 ## Labs
 
