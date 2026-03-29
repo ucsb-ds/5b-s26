@@ -1,13 +1,14 @@
+# Configuration for course
+
+ta_list_full: "Ege Demirci"
+la_list_full: "Stacy Callahan and Rachit Gupta"
+
+
 # remote_theme: just-the-docs/just-the-docs
 theme: just-the-docs
-
 incremental: true
-
 jdk_distribution: "21.0.6-librca"
-
-
 baseurl: "/"
-
 mermaid:
   # Version of mermaid library
   # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
