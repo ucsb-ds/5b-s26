@@ -247,12 +247,11 @@ As an instructor, one of my responsibilities is to help create a safe learning e
 
 ## Accommodations for disabilities
 
-Students with disabilities may request academic accommodations for exams online through the UCSB Disabled Students Program at http://dsp.sa.ucsb.edu/. Please make your requests for exam accommodations through the online system as early in the quarter as possible to ensure proper arrangement.
+Students with disabilities may request academic accommodations for exams online through the UCSB Disabled Students Program at <http://dsp.sa.ucsb.edu/>. Please make your requests for exam accommodations through the online system as early in the quarter as possible to ensure proper arrangement.
 
 ## Managing stress
 
-Personal concerns such as stress, anxiety, relationships, depression, cultural differences, can interfere with the ability of students to succeed and thrive. For helpful resources, please contact UCSB Counseling & Psychological Services (CAPS) at 805-893-4411 or visit http://counseling.sa.ucsb.edu/ .
-
+Personal concerns such as stress, anxiety, relationships, depression, cultural differences, can interfere with the ability of students to succeed and thrive. For helpful resources, please contact UCSB Counseling & Psychological Services (CAPS) at 805-893-4411 or visit <https://caps.sa.ucsb.edu/> 
 
 ## Food Security and Calfresh
 
