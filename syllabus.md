@@ -169,13 +169,15 @@ You will take your exam in PrairieLearn on a Testing Center computer. The exam i
 
 I recommend that you visit the Testing Center prior to your scheduled exam time so that you’re familiar with where it is, how long it takes to get there, etc.
 
-Quiz and Exam Schedule
+## Quiz and Exam Schedule
 
-TODO: Update this!
+We will go over how to reserve appointments in class on Wednesday 04/01.
 
-
-We will go over how to reserve appointments in class; we expect to do this sometime during Week 1 of the quarter. 
-
+| name | duration  | percentage of final grade | week | first day | last day | registration opens |
+|-|-|-|-|-|-|-|
+| `quiz01` | 75 min | approx 2% | week 3 | Wed 04/15 | Fri 04/17 | registration opens | Wed 04/01 |
+| `exam01` (midterm) | 75 min| 15% | week 7 |  Wed 05/13 | Fri 05/15 | Wed 04/29 | 
+| `exam02` (final) | 150 min | 15% | finals week (week 11) | Mon 06/08 | Thu 06/11 | Fri 05/22 | 
 
 ## Labs
 
