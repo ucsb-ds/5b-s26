@@ -35,7 +35,7 @@ by Ani Adhikari, John DeNero, David Wagner.  This text was originally developed 
   * {{site.discussion_section_day}} {{site.discussion_section_times}}
   * Attendance/Participation is expected/required.
   * Please participate in the section for which you are registered; if you need to change sections, contact the instructor via Slack DM.
-* Office Hours: See: [https://ucsb-cs156.github.io/s26/office-hours.html](https://ucsb-cs156.github.io/s26/office-hours.html)
+* Office Hours: See: [https://ucsb-ds.github.io/5b-s26/office-hours.html](https://ucsb-ds.github.io/5b-s26/office-hours.html)
 
 
 Course website: <https://ucsb-ds.github.io/5b-s26/>
