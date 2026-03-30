@@ -39,12 +39,6 @@ aux_links:
   "5b-s26 (canvas)":
     - "https://ucsb.instructure.com/courses/32780"
 
-# Collections for website data
-collections:
-  lectures:
-    permalink: "/lectures/:path/"
-    output: true
-
 defaults:
   -
     scope:
