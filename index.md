@@ -6,7 +6,9 @@ nav_order: 1
 
 # CMPSC 5B, Spring 2026
 
+
 <style>
+     iframe { width: 100%; height: 1400px; }
 </style>
 
 
