@@ -1,5 +1,5 @@
 ---
-title: Warning: unprotected key file
+title: "Warning: unprotected key file"
 permalink: "/git-issues/warning-unprotected-key-file"
 layout: default
 parent: Git Issues
