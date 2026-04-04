@@ -8,7 +8,7 @@ la_list_full: "Stacy Callahan and Rachit Gupta"
 theme: just-the-docs
 incremental: true
 jdk_distribution: "21.0.6-librca"
-baseurl: "/"
+baseurl: ""
 mermaid:
   # Version of mermaid library
   # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/

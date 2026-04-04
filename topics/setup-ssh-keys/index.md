@@ -32,7 +32,7 @@ Do this before cloning/pushing course repos.
 
 1. Open a terminal.
 
-   ![JupyterHub terminal example](/topics/setup-ssh-keys/setup-ssh-keys-open-jupyterhub-terminal.png)
+   ![JupyterHub terminal example]({{ '/topics/setup-ssh-keys/setup-ssh-keys-open-jupyterhub-terminal.png' | relative_url }})
 
 2. Make a key:
 
@@ -42,8 +42,8 @@ Do this before cloning/pushing course repos.
 
    Press `Enter` for each prompt (file location + passphrase) if you want the default setup.
 
-   ![Running ssh-keygen in terminal](/topics/setup-ssh-keys/setup-ssh-keys-run-ssh-keygen-command.png)
-   ![ssh-keygen output example](/topics/setup-ssh-keys/setup-ssh-keys-ssh-keygen-success-output.png)
+   ![Running ssh-keygen in terminal]({{ '/topics/setup-ssh-keys/setup-ssh-keys-run-ssh-keygen-command.png' | relative_url }})
+   ![ssh-keygen output example]({{ '/topics/setup-ssh-keys/setup-ssh-keys-ssh-keygen-success-output.png' | relative_url }})
 
 3. Check that keys were created:
 
@@ -68,18 +68,18 @@ Do this before cloning/pushing course repos.
 
 5. In GitHub, go to **Settings**.
 
-   ![GitHub profile menu with Settings](/topics/setup-ssh-keys/setup-ssh-keys-github-profile-settings-menu.png)
+   ![GitHub profile menu with Settings]({{ '/topics/setup-ssh-keys/setup-ssh-keys-github-profile-settings-menu.png' | relative_url }})
 
 6. Open **SSH and GPG keys**.
 
-   ![GitHub SSH and GPG keys sidebar item](/topics/setup-ssh-keys/setup-ssh-keys-github-ssh-and-gpg-keys-sidebar.png)
+   ![GitHub SSH and GPG keys sidebar item]({{ '/topics/setup-ssh-keys/setup-ssh-keys-github-ssh-and-gpg-keys-sidebar.png' | relative_url }})
 
 7. Click **New SSH key** and paste your public key.
 
    - Title: use something clear like `jupyterhub` or `my-laptop`
    - Key type: `Authentication Key`
 
-   ![GitHub add new SSH key form](/topics/setup-ssh-keys/setup-ssh-keys-github-add-new-ssh-key-form.png)
+   ![GitHub add new SSH key form]({{ '/topics/setup-ssh-keys/setup-ssh-keys-github-add-new-ssh-key-form.png' | relative_url }})
 
 
 ## Quick troubleshooting
