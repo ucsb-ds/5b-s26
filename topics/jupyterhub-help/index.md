@@ -20,7 +20,7 @@ Use this page to access and navigate the course JupyterHub.
 
 After logging in, you should land on the JupyterLab launcher page.
 
-![JupyterHub dashboard](/topics/jupyterhub-help/jupyterhub-help-dashboard.png)
+![JupyterHub dashboard]({{ '/topics/jupyterhub-help/jupyterhub-help-dashboard.png' | relative_url }})
 
 ## Basic navigation in JupyterLab
 
