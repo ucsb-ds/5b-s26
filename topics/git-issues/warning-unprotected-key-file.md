@@ -47,14 +47,14 @@ There are two ways to fix this:
 chmod 700 ~/.ssh; chmod 700 ~/.ssh/*
 ```
 
-## What this command does
+### What this command does
 
 This sets the permission for the `~/.ssh` directory and all of the files inside it to `700`, which means that the user can read, write and execute the files, 
 but no one else can (not users in the same group, and not other users).
 
 That's necessary in order to use the contents of that directory as a public/private key pair.
 
-## After this, try your git command again.
+### After this, try your git command again.
 
 Rerun your `git` command.  It should work now. For example:
 
@@ -65,6 +65,36 @@ Cloning into 'lab02-pconrad'...
 warning: You appear to have cloned an empty repository.
 jovyan@jupyter-phtcon:~/github$
 ```
+
+## The "fix it once and for all" approach
+
+To fix this once and for all, use this command:
+
+```
+echo "chmod 700 ~/.ssh; chmod 700 ~/.ssh/*" >> ~/.bashrc
+```
+
+### What this does
+
+This sets up a file called `~/.bashrc` if it doesn't already exist, and adds this line of code to the end of the file:
+
+```
+chmod 700 ~/.ssh; chmod 700 ~/.ssh/*
+```
+
+The left hand side of the command is like a print statement in Python; `echo` is the shell command that corresponds to `print`:
+
+```
+echo "chmod 700 ~/.ssh; chmod 700 ~/.ssh/*"
+```
+
+The `>>` operator says: whatever the output of this command is (the command on the left hand side), put it at the end of the file on the right hand side (in this case, `~/.bashrc`)
+
+The file `~/.bashrc` is a file of shell commands (terminal commands) that is executed every time you create a new terminal session (shell).
+
+You can use this same approach for anything that you want to be executed once every time you log in.
+
+
 
 
 
