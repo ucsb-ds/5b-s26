@@ -251,11 +251,13 @@ All course materials (class lectures and discussions, handouts, examinations, we
 
 ## Respectful Learning Environment
 
+Reference: <https://titleix-dhp.ucsb.edu/policies>
+
 It is part of UCSB's mission to "foster an environment that promotes safety, inclusivity, and is free from discrimination". ([source](https://studentlife.sa.ucsb.edu/equity-inclusion/bias)). 
 
 All students, faculty and staff are expected to follow both the letter and spirit of all of UCSB's policies that promote such an environment at all times, including in the context of this course. Please avoid any words or actions that would be inconsistent with this.
 
-*UCSB non-discrimination policy*: UC Santa Barbara prohibits discrimination and harassment of any person on the basis of their protected class status, which is an identity protected by federal or state law, including the following: race, religion, color, citizenship, national or ethnic origin, ancestry, sex (including pregnancy, childbirth, lactation or related medical conditions), gender, gender identity, gender expression, gender transition, sexual orientation, physical or mental disability (including having a history of a disability or being regarded as being disabled), medical condition (cancer-related or genetic characteristics), predisposing genetic information (including family medical history), marital status, age (at least 40 years of age), or veteran or military status. ([source](https://titleix-dhp.ucsb.edu/discrimination-harassment-overview)).
+*UCSB anti-discrimination policy*: UC Santa Barbara prohibits discrimination and harassment of any person on the basis of their protected class status, which is an identity protected by federal or state law, including the following: race, religion, color, citizenship, national or ethnic origin, ancestry, sex (including pregnancy, childbirth, lactation or related medical conditions), gender, gender identity, gender expression, gender transition, sexual orientation, physical or mental disability (including having a history of a disability or being regarded as being disabled), medical condition (cancer-related or genetic characteristics), predisposing genetic information (including family medical history), marital status, age (at least 40 years of age), or veteran or military status. ([source](https://titleix-dhp.ucsb.edu/discrimination-harassment-overview)).
 
 UCSB does not tolerate sexual harassment/sexual violence, which is prohibited by University policy and state and federal law. The Title IX Compliance and Sexual Harassment Policy Compliance Office (TIX/SHPC) provides assistance in preventing and resolving and investigating complaints of sexual harassment/sexual violence and gender discrimination.
 
@@ -263,7 +265,9 @@ Please help me to cultivate a positive classroom environment by communicating an
 
 ## Mandatory Reporting 
 
-As an instructor, one of my responsibilities is to help create a safe learning environment on our campus.  I want to ensure that students feel they can speak to me, but I also want students to be informed that I have a mandatory reporting responsibility related to my role as a professor. I am *required* to share information regarding sexual misconduct, information about a crime that may have occurred on UCSB’s campus or in the community, or incidents of bias directed against individuals or groups that violate university policy.   A result of my mandated report will be that students will receive outreach and resources from the campus Title IX office. Students may speak to someone confidentially by contacting CARE, Campus Advocacy, Resources & Education at the 24/7 advocacy line at (805) 893-4613 or visit them in person at the Student Resource Building.
+As an instructor, one of my responsibilities is to help create a safe learning environment on our campus.  I want to ensure that students feel they can speak to me, but I also want students to be informed that I have a mandatory reporting responsibility related to my role as a professor. I am *required* to share information regarding sexual misconduct, information about a crime that may have occurred on UCSB’s campus or in the community, or incidents of discrimination directed against individuals or groups that violate university policy.   A result of my mandated report will be that students will receive outreach and resources from the campus Title IX office. 
+
+If you would like to explore a concern with someone that is *not* a mandated reported, there are several resources available.  Students may speak to someone confidentially by contacting CARE, Campus Advocacy, Resources & Education at the 24/7 advocacy line at (805) 893-4613 or visit them in person at the Student Resource Building.  Also: Office of the Ombuds. CAPS for students, ASAP for University Employees (including faculty, staff, and student employees such as TAs and ULAs.)
 
 ## Accommodations for disabilities
 
